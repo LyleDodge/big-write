@@ -1,0 +1,8 @@
+{
+  "name": "BigWrite",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "276c95c9"
+}
